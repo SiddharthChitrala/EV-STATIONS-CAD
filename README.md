@@ -43,7 +43,7 @@ Before you can run and deploy the application, make sure you have the following 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ev-charging-stations.git
+   git clone https://github.com/SiddharthChitrala/EV-STATIONS-CAD.git
    cd ev-charging-stations
    ```
 
